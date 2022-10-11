@@ -1,6 +1,9 @@
 .App {
   text-align: center;
 }
+.forms-container{
+  width: 500px!important;
+}
 
 .App-logo {
   height: 40vmin;
