@@ -2,6 +2,7 @@ import './App.css';
 // import SignIn from './component/SignIn';
 import NavbarExaple from './screens/Navbar';
 // import Reg from './component/Register';
+// import Form from './component/Foam';
 function App() {
 
   
@@ -11,6 +12,7 @@ function App() {
        <NavbarExaple /> 
       {/* <SignIn/> */}
       {/* <Reg /> */}
+      {/* <Form /> */}
     </div>
   );
 }
